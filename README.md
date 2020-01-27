@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/lukemorales/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" />
+    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/ahaavila/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" />
     <br>
     Full Stack Instagram Clone <br />
     Node.js | ReactJS | React Native
@@ -11,22 +11,22 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ahaavila/instagram-fullStack.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/instagram-fullStack.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ahaavila/instagram-fullStack.svg">
   
-  <a href="https://www.codacy.com/app/lukemorales/instagram-fullStack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/instagram-fullStack&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/ahaavila/instagram-fullStack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ahaavila/instagram-fullStack&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/instagram-fullStack.svg">
-  <a href="https://github.com/lukemorales/instagram-fullStack/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/instagram-fullStack.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ahaavila/instagram-fullStack.svg">
+  <a href="https://github.com/ahaavila/instagram-fullStack/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ahaavila/instagram-fullStack.svg">
   </a>
   
-  <a href="https://github.com/lukemorales/instagram-fullStack/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/instagram-fullStack.svg">
+  <a href="https://github.com/ahaavila/instagram-fullStack/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ahaavila/instagram-fullStack.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/instagram-fullStack.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/ahaavila/instagram-fullStack.svg"> 
   
 </p>
 
