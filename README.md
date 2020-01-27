@@ -71,7 +71,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/instagram-fullStack
+$ git clone https://github.com/ahaavila/instagram-fullStack
 
 # Go into the repository
 $ cd instagram-fullStack
@@ -123,11 +123,11 @@ $ react-native run-android
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/instagram-fullStack/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/ahaavila/instagram-fullStack/blob/master/LICENSE) for more information.
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+by Augusto Ávila :wave: [Get in touch!](https://www.linkedin.com/in/ahaavila/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
