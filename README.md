@@ -9,7 +9,7 @@
   
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/Javascript-73.0%25-blue">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ahaavila/instagram-fullStack.svg">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/instagram-fullStack.svg">
   
