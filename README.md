@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/ahaavila/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" />
+    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/lukemorales/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" />
     <br>
     Full Stack Instagram Clone <br />
     Node.js | ReactJS | React Native
